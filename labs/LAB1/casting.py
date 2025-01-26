@@ -1,0 +1,6 @@
+x=int(2)
+y=float(5.2)
+z=str('KBTU')
+print(x)
+print(y)
+print(z)
