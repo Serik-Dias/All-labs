@@ -75,7 +75,6 @@ movies = [
 "category": "Romance"
 }
 ]
-
 def myfunction(a):
     name = input("name: ")
     for i in movies:

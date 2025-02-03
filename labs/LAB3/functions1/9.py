@@ -6,4 +6,5 @@ def myfunction(a):
 
 a = float(input("Enter: "))
 
+
 print(f"{myfunction(a):.2f}")

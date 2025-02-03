@@ -10,6 +10,7 @@ def filter_prime(n):
 
 
 
+
 list1 = list(map(int, input().split()))
 
 list2 = []

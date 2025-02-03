@@ -6,6 +6,7 @@ def myfunction(a):
             return False
     return True 
 
+
 a = input("Enter: ")
 
 if(myfunction(a)):

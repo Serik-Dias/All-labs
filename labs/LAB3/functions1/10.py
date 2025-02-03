@@ -9,6 +9,7 @@ def myfunction(a):
             b.append(a[i])
     return b
 
+
 a = list(map(int, input().split()))
 
 print(myfunction(a))

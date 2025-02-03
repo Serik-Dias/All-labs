@@ -75,6 +75,7 @@ movies = [
 "category": "Romance"
 }
 ]
+
 def myfunction(movies):
     c_movies = []
     c_name = input("Category name: ")

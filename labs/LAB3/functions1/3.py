@@ -5,6 +5,7 @@ def myfunction(numheads,numlegs):
 
     return rabbits,chickens
 
+
 a = int(input("Number heads: "))
 b = int(input("Number legs: "))
 

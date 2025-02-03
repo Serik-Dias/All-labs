@@ -32,6 +32,5 @@ p = float(input("y1: "))
 p1.move(k, p)
 p1.show()
 
-
 distance = p1.dist(p2)
 print(f"Distance between point1 and point2: {distance}.")

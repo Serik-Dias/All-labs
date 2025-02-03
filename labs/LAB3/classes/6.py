@@ -12,5 +12,4 @@ def myfunction(a):
 mylist = list(map(int,input("Enter: ").split()))
 
 prime_numbers = list(filter(lambda x: myfunction(x), mylist))
-
 print(prime_numbers)

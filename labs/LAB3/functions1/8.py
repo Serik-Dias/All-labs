@@ -11,6 +11,7 @@ def myfunction(a):
     return False
 
 
+
 a = list(map(int,input("Enter: ").split()))
 
 print(myfunction(a))

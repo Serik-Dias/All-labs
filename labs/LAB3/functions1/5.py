@@ -8,6 +8,7 @@ def permutation(a):
     for i in permutation:
         print(''.join(i))
 
+
 a = input("Enter: ")
 
 permutation(a)

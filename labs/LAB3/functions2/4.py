@@ -89,6 +89,7 @@ def myfunction(movies, names):
     
     return summ / cnt
 
+
 name = []
 a = ""
 while a != "stop":

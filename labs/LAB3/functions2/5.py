@@ -76,6 +76,7 @@ movies = [
 }
 ]
 category = input("Category name: ")
+
 def myfunction(movies):
     cnt = 0
     summ = 0

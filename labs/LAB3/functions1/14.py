@@ -9,7 +9,6 @@ a = input("Name: ")
 
 print(f"Well, {a}, I am thinking of a number between 1 and 20.\nTake a guess.")
 b = int(input("Enter: "))
-
 while(True):
     c += 1
 

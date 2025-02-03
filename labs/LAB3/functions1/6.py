@@ -7,6 +7,7 @@ def myfunction(a):
 
     return d
 
+
 a = input("Enter: ")
 
 print(myfunction(a))

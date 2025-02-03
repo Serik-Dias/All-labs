@@ -12,4 +12,5 @@ a = float(input("Enter: "))
 b = float(input("Enter: "))
 a_rectangle = Rectangle(a,b)
 
+
 print(f"Area of the Rectangle:",a_rectangle.area())

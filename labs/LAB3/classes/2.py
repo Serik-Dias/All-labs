@@ -9,6 +9,8 @@ class Square(Shape): # класс Square наследник Shape
     
 a = float(input("Enter: "))
 a_square = Square(a) # <- create the object
+
 print("area of a square: ", a_square.area())
 a_shape = Shape() # <- it's also object
+
 print("Another shape: ", a_shape.area())

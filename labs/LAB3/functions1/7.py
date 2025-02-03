@@ -7,4 +7,5 @@ def myfunction(a):
 
 a = list(map(int,input("Enter: ").split()))
 
+
 print(myfunction(a))
