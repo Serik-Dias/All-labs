@@ -12,6 +12,7 @@ print("-"*84)
 for item in data["imdata"]:  #imdata is key which contain list of elements
     attr = item["l1PhysIf"]["attributes"]  #attr == attributes     attributes is dictionary
     dn = attr.get("dn")
+    
     descr = attr.get("descr")
     speed = attr.get("speed")
     mtu = attr.get("mtu")
